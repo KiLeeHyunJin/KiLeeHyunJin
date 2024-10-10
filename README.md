@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div align="center"><img src="https://github.com/user-attachments/assets/8f825588-f719-4b29-a5e5-713f4c5df543" /></div>  
 <!--
 **KiLeeHyunJin/KiLeeHyunJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
