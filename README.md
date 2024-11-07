@@ -3,7 +3,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/8f825588-f719-4b29-a5e5-713f4c5df543" /></div>  
 
 ## My Website
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">]() [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">]()
+[<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">]() [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/@KiLeeHyunJin)
 <br/> <br/>
 
 ## Skill
