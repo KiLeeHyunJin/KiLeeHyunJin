@@ -14,3 +14,6 @@
 ## Contact Me
 <a href="mailto:sodkdlel3163@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 <br/> <br/>
+
+## 📍 Top Langs & GitHub Stats Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiLeeHyunJin&layout=donut&theme=buefy&&bg_color=00000000&&icon_color=9face1&&hide_border=true)](https://github.com/Mellling/github-readme-stats) [![KiLeeHyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiLeeHyunJin&include_all_commits=true&theme=buefy&&hide_border=true&&count_private=true&&bg_color=00000000)](https://github.com/KiLeeHyunJin/github-readme-stats)
