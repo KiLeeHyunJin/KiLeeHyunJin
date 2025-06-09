@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=Photon&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 <br/> <br/>
 
-## 📮 Contact Me
-<a href="mailto:sodkdlel3163@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
-<br/> <br/>
 
 ## 📍 Top Langs & GitHub Stats Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiLeeHyunJin&layout=donut&theme=buefy&&bg_color=00000000&&icon_color=9face1&&hide_border=true)](https://github.com/KiLeeHyunJin/github-readme-stats) [![KiLeeHyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyunJin&include_all_commits=true&theme=buefy&&hide_border=true&&count_private=true&&bg_color=00000000)](https://github.com/KiLeeHyunJin/github-readme-stats)
